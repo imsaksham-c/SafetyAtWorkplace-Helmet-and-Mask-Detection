@@ -2,7 +2,7 @@
 Creating an AI engine that is capable of predicting whether a person is wearing a face mask and a safety helmet at work place like construction sites, labs etc.
 
 ## Implementation-
-# Framework - PyTorch, YOLOv3
+### Framework - PyTorch, YOLOv3
 I have divided the problem in 2 different problems
 1. Detecting Helmet
 2. Detecting Mask
