@@ -9,7 +9,8 @@ In this projct I have created and trained an AI model to automate the monitoring
 4. Obtain weights & cfg file
 5. Test the Model
 
-## Dataset - https://drive.google.com/drive/folders/12WtXQyM-7jWvWPtCXZlnycsIK72ClHgu
+## Dataset - 
+https://drive.google.com/drive/folders/12WtXQyM-7jWvWPtCXZlnycsIK72ClHgu
 Download the dataset along with the annotation file (as req.)
 
 ## Training YOLOv3
