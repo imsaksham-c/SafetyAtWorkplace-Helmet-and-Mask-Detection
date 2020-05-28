@@ -17,7 +17,7 @@ Download the dataset along with the annotation file (as req.)
 For training custom YOLO please follow the [Darknet](https://github.com/AlexeyAB/darknet) procedure.
 
 ## Trained Model File
-I will be updating the drive link soon!
+https://drive.google.com/drive/folders/1LK8v6VrBXLYUIVgmB__xxoVM1HiQfkEz?usp=sharing
 
 ## Testing the Model
 For testing, I have created an intractive notebook with all the details and results displayed.
