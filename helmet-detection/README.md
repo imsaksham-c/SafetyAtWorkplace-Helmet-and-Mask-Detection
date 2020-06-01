@@ -18,6 +18,7 @@ For training custom YOLO please follow the [Darknet](https://github.com/AlexeyAB
 
 ## Trained Model File
 https://drive.google.com/drive/folders/1LK8v6VrBXLYUIVgmB__xxoVM1HiQfkEz?usp=sharing
+Download the model file and place it in the model folder in helmet-detection folder
 
 ## Testing the Model
 For testing, I have created an intractive notebook with all the details and results displayed.
